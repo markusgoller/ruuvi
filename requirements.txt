@@ -1,0 +1,4 @@
+python3.8
+pandas
+numpy
+matplotlib
